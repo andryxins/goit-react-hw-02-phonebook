@@ -53,8 +53,6 @@ export default class App extends Component {
 
     const filteredItems = helpers.filterContact(contacts, filter);
 
-    console.log(contacts);
-
     return (
       <div>
         <h1 className="appTitle">Phonebook</h1>
