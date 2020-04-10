@@ -1,0 +1,24 @@
+.contactList {
+  margin: 0;
+  padding: 0;
+  padding-top: 25px;
+  list-style: none;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ContactListItem {
+  padding: 3px 15px;
+  border: 1px solid #222222;
+  margin-bottom: 5px;
+  border-radius: 10px;
+  width: 250px;
+  text-align: center;
+}
+
+.btnDelete {
+  display: block;
+  margin: 5px auto;
+}

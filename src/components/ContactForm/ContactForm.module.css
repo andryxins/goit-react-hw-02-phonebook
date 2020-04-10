@@ -1,0 +1,21 @@
+.form {
+  padding: 25px 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.formLabels {
+  margin-bottom: 5px;
+}
+
+.formFields {
+  margin-bottom: 15px;
+  width: 200px;
+  text-align: center;
+}
+
+.btnSubmit {
+  width: 15%;
+}
